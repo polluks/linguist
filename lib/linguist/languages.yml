@@ -6045,6 +6045,7 @@ REXX:
   - ".rexx"
   - ".pprx"
   - ".rex"
+  - ".exec"
   interpreters:
   - regina
   - rexx
